@@ -137,7 +137,7 @@ function About() {
           CV
         </h1>
         <p>
-          You can view and download my CV <a href="[link to your CV]" className="text-blue-500 underline">here</a>.
+          You can view and download my CV <a href="https://orange-petronille-77.tiiny.site" className="text-blue-500 underline">here</a>.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
